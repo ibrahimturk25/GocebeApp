@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Jcasuke_boy_and_girl_sitting_on_grass_hugging_and_watching_2_ye_2c232391-f546-4e51-a8be-31d7110b05f8.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
